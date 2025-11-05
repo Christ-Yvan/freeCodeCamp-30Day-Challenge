@@ -20,10 +20,11 @@ Page de recette de cuisine avec liste d'ingrédients et étapes de préparation.
 ![Screenshot](./screencapture-file-C-Users-christ-yvan-Documents-freeCodeCamp-30Day-Challenge-week-1-html-css-recipe-page-index-html-2025-11-05-20_26_47.png)
 
 ## ��� Live Demo
-[Voir en ligne](https://ton-username.github.io/freeCodeCamp-30Day-Challenge/week-X/nom-projet)
+[Voir en ligne](https://christ-yvan.github.io/freeCodeCamp-30Day-Challenge/week-X/nom-projet)
 
 ## ��� Contexte
 Projet 2/12 - freeCodeCamp 30-Day Challenge (Jour 1 - 05 Nov 2025)
 
 ---
 [← Retour au challenge](../../README.md)
+
